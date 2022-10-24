@@ -5,8 +5,8 @@ baseurl = "https://clallam.lgbt/"  # Include trailing slash
 copyright = "Copyright © 2022, Cloud Huxley; all rights reserved."
 # canonifyurls = true
 paginate = 10
-theme = ["github.com/chipzoller/hugo-clarity"]
-disqusShortname = ""
+theme = "hugo-clarity"
+# disqusShortname = ""
 
 DefaultContentLanguage = "en"
 # [languages]
