@@ -11,7 +11,7 @@ featureImage: "/images/hotairballoon.jpg" # Sets featured image on blog post.
 featureImageAlt: 'Hot Air Balloon in a clear blue sky' # Alternative text for featured image.
 featureImageCap: 'Hot Air Balloon in a clear blue sky.' # Caption (optional).
 thumbnail: "/images/hotairballoon_thumb.jpg" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
+shareImage: "/images/hotairballoon_share.jpg" # Designate a separate image for social media sharing.
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 figurePositionShow: true # Override global value for showing the figure label.
