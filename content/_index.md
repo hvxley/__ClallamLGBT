@@ -1,5 +1,4 @@
-+++
-author = "Cloud Huxley"
-description = "Queer resources for the people of Clallam County, Washington."
-keywords = ["Clallam", "LGBT", "LGBTQIA", "LGBTQIA2S+"]
-+++
+---
+title: "Welcome to Blowfish! :tada:"
+description: "This is a demo of the Blowfish theme for Hugo."
+---

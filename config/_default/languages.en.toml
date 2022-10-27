@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Clallam|LGBT"
+logo = "logos/logo.png"
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+copyright = "Copyright &copy; 2022 Cloud Huxley. All rights reserved."
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Cloud Huxley"
+  image = "img/blowfish_logo.png"
+  headline = "She/They. Agender, Coder, Queer/Relationship Anarchist, Foodie, Crafty."
+  bio = "She/They. Agender, Coder, Queer/Relationship Anarchist, Foodie, Crafty."
+  links = [
+    { mastodon = "https://social.clallam.lgbt/@Cloudy" },
+    { github = "https://github.com/hvxley/ClallamLGBT/" },
+  ]
